@@ -4,8 +4,7 @@
 ### Développeur Full Stack web & mobile · Red Teamer intermédiaire
 
 Je conçois des applications modernes, performantes et sécurisées, du développement des interfaces à la création d’API et d’architectures backend. Je complète cette expertise par des compétences en réseaux, systèmes, DevOps et cybersécurité offensive.
-#
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Russel_Kamgang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russel-kamgang-9483b0347)
 [![E-mail](https://img.shields.io/badge/E--mail-Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russelkammoe9@gmail.com)
 
