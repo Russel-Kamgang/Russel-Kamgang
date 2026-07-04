@@ -1,10 +1,9 @@
-
 # Bonjour, je suis Russel Kamgang 👋
 
 ### Développeur Full Stack web & mobile · Red Teamer intermédiaire
 
-Je conçois des applications modernes, performantes et sécurisées, du développement des interfaces à la création d’API et d’architectures backend. Je complète cette expertise par des compétences en réseaux, systèmes, DevOps et cybersécurité offensive.
-  
+Je conçois des applications modernes, performantes et sécurisées, du développement des interfaces à la création d’API et d’architectures backend. Je complète ces compétences par des connaissances en réseaux, systèmes, DevOps et cybersécurité offensive. J'intègre aussi les outils d'IA dans mon flux de travail pour gagner en efficacité et en qualité.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Russel_Kamgang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russel-kamgang-9483b0347)
 [![E-mail](https://img.shields.io/badge/E--mail-Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russelkammoe9@gmail.com)
 
@@ -14,6 +13,7 @@ Je conçois des applications modernes, performantes et sécurisées, du dévelop
 - 🌐 Je développe des solutions **web, mobile et backend**, de l’interface utilisateur aux API RESTful.
 - 🛡️ Je renforce mes projets grâce à mes connaissances en **réseaux, systèmes Linux, DevOps et sécurité offensive**.
 - 📍 Basé à **Douala, Cameroun**, je suis disponible pour des opportunités **sur site, à distance ou en freelance**.
+- 🤝 Je suis reconnu pour mon **esprit d'équipe**, ma communication et ma collaboration sur des projets collectifs.
 - 🎯 J’accorde une attention particulière à la qualité du code, à la sécurité et à la résolution de problèmes concrets.
 
 ## Compétences techniques
@@ -35,6 +35,9 @@ Je conçois des applications modernes, performantes et sécurisées, du dévelop
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+<!-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) -->
 
 ### Bases de données, DevOps et systèmes
 
