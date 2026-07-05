@@ -61,6 +61,7 @@ Vous avez un projet, une opportunité ou souhaitez échanger autour du développ
 
 - **E-mail :** [russelkammoe9@gmail.com](mailto:russelkammoe9@gmail.com)
 - **LinkedIn :** [Russel Kamgang](https://www.linkedin.com/in/russel-kamgang-9483b0347)
+- **Portfolio :** [Russel Kamgang](https://portfolio-russel.vercel.app/)
 
 <div align="center">
 
