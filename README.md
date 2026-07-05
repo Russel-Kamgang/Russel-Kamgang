@@ -6,7 +6,6 @@ Je conçois des applications modernes, performantes et sécurisées, du dévelop
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Russel_Kamgang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russel-kamgang-9483b0347)
 [![E-mail](https://img.shields.io/badge/E--mail-Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russelkammoe9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/E--mail-Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://portfolio-russel.vercel.app/)
 
 ## À propos de moi
 
