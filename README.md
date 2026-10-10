@@ -1,10 +1,9 @@
-# Hi 👋, I'm Russel Kamgang
+# Salut👋, Je me nomme Russel Kamgang
 
-### 💻 Software Developer (Web, Mobile, Backend) ⚙️ DevOps & Cloud (AWS, Docker, CI/CD, Grafana) 🔴 Pentester & Red Teamer (Web & Systèmes) 📍 Douala, Cameroun — Disponible en remote / freelance
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Russel-Kamgang)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Russel-Kamgang" alt="russel-kamgang" /></a> </p>
+### 💻 Software Developer (Web, Mobile, Backend) 
+### ⚙️ DevOps & Cloud (AWS, Docker, CI/CD, Grafana) 
+### 🔴 Pentester & Red Teamer (Web & Systèmes) 
+### 📍 Douala, Cameroun — Disponible en remote / freelance
 
 - 📫 How to reach me **russelkammoe9@gmail.com**
 
