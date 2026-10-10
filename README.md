@@ -1,28 +1,78 @@
-# Salut👋, Je me nomme Russel Kamgang
+# Salut 👋, je suis Russel Kamgang
 
-### 💻 Software Developer (Web, Mobile, Backend) 
-### ⚙️ DevOps & Cloud (AWS, Docker, CI/CD, Grafana) 
-### 🔴 Pentester & Red Teamer (Web & Systèmes) 
-### 📍 Douala, Cameroun — Disponible en remote / freelance
+💻 Software Developer (Web, Mobile, Backend) 
+⚙️ DevOps & Cloud (AWS, Docker, CI/CD, Grafana) 
+🔴 Pentester & Red Teamer (Web & Systèmes) 
+📍 Douala, Cameroun — Disponible en remote / freelance
 
-- 📫 How to reach me **russelkammoe9@gmail.com**
+---
 
-- 👨‍💻 All of my projects are available at **[https://portfolio-russel.vercel.app](https://portfolio-russel.vercel.app)**
+### 📫 Me contacter & Ressources
 
-- 📄 Know about my experiences **[https://portfolio-russel.vercel.app/CV_KAMMOE_KAMGANG_RUSSEL.pdf](https://portfolio-russel.vercel.app/CV_KAMMOE_KAMGANG_RUSSEL.pdf)**
-<p></p>
-<h3 align="left">Connect with me:</h3>
+[![Email](https://img.shields.io/badge/Email-Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russelkammoe9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Russel_Kamgang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/russel-kamgang-9483b0347)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-russel.vercel.app)
+[![CV](https://img.shields.io/badge/CV-Télécharger-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://portfolio-russel.vercel.app/CV_KAMMOE_KAMGANG_RUSSEL.pdf)
+
+---
+
+### 🚀 Projets sélectionnés
+
+> *Les dépôts ci-dessous sont épinglés. Assurez-vous d'ajouter une description à chaque repo dans les paramètres GitHub pour qu'ils s'affichent correctement.*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=russel-kamgang&repo=NOM_DU_REPO_1&theme=tokyonight)](https://github.com/russel-kamgang/NOM_DU_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=russel-kamgang&repo=NOM_DU_REPO_2&theme=tokyonight)](https://github.com/russel-kamgang/NOM_DU_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=russel-kamgang&repo=NOM_DU_REPO_3&theme=tokyonight)](https://github.com/russel-kamgang/NOM_DU_REPO_3)
+
+---
+
+### 🛠️ Stack technique
+
+<details>
+<summary><b>💻 Frontend & Mobile</b></summary>
+<br>
 <p align="left">
-<a href="https://github.com/russel-kamgang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="russel-kamgang" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/russel-kamgang-9483b0347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="russel-kamgang-9483b0347" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,flutter,ts,js,tailwind,figma&perline=9" />
+</p>
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Bases de données</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,spring,java,php,postgres,mysql,mongodb&perline=9" />
+</p>
+</details>
+
+<details>
+<summary><b>☁️ DevOps, Cloud & Systèmes</b></summary>
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,grafana,nginx,git,postman&perline=8" />
+</p>
+</details>
+
+<details>
+<summary><b>🔴 Sécurité Offensive (Red Team)</b></summary>
+<br>
+<p align="left">
+  <!-- Les outils de pentest n'ont pas toujours d'icônes officielles, on utilise des badges clairs -->
+  <img src="https://img.shields.io/badge/Nmap-2A9FD6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white" />
+</p>
+</details>
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=russel-kamgang&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=russel-kamgang&show_icons=true&locale=en&layout=compact" alt="russel-kamgang" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russel-kamgang&show_icons=true&locale=en" alt="russel-kamgang" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russel-kamgang&" alt="russel-kamgang" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=russel-kamgang&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
