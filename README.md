@@ -18,7 +18,7 @@
 
 ### 🚀 Projets sélectionnés
 
-[![Blog — Carte du dépôt](https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=blog&theme=tokyonight&hide_border=true)](https://github.com/russel-kamgang/blog)
+[![Bot-Chat-IA-Bot-Telegram — Carte du dépôt](https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=Bot-Chat-IA-Bot-Telegram&theme=tokyonight&hide_border=true)](https://github.com/russel-kamgang/Bot-Chat-IA-Bot-Telegram)
 
 ---
 
