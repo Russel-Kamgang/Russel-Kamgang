@@ -14,9 +14,9 @@
 
 ## 🚀 Projets sélectionnés
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=nom-projet-1&show_owner=true&theme=default)](https://github.com/TON_USERNAME/nom-projet-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=nom-projet-2&show_owner=true&theme=default)](https://github.com/TON_USERNAME/nom-projet-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=nom-projet-3&show_owner=true&theme=default)](https://github.com/TON_USERNAME/nom-projet-3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russel-Kamgang&repo=nom-projet-1&show_owner=true&theme=default)](https://github.com/Russel-Kamgang/nom-projet-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russel-Kamgang&repo=nom-projet-2&show_owner=true&theme=default)](https://github.com/Russel-Kamgang/nom-projet-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russel-Kamgang&repo=nom-projet-3&show_owner=true&theme=default)](https://github.com/Russel-Kamgang/nom-projet-3)
 ---
 
 ## 🛠️ Stack
@@ -35,8 +35,8 @@ Nmap, Burp Suite, Wireshark, méthodologie OWASP
 ## 📊 Activité
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Russel-Kamgang&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Russel-Kamgang&layout=compact&hide_border=true" height="165"/>
 </p>
 
 ---
