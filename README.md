@@ -18,8 +18,8 @@
 
 ### 🚀 Projets sélectionnés
 
-[![Bot-Chat-IA-Bot-Telegram — Carte du dépôt](https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=Bot-Chat-IA-Bot-Telegram&theme=tokyonight&hide_border=true)](https://github.com/russel-kamgang/Bot-Chat-IA-Bot-Telegram)
 [![CICD-With-Jenkins — Carte du dépôt](https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=CICD-With-Jenkins&theme=tokyonight&hide_border=true)](https://github.com/russel-kamgang/CICD-With-Jenkins)
+[![Bot-Chat-IA-Bot-Telegram — Carte du dépôt](https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=Bot-Chat-IA-Bot-Telegram&theme=tokyonight&hide_border=true)](https://github.com/russel-kamgang/Bot-Chat-IA-Bot-Telegram)
 
 ---
 
