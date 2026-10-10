@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer (Web, Mobile, Backend) ⚙️ DevOps & Cloud (AWS, Docker, CI/CD, Grafana) 🔴 Pentester & Red Teamer (Web & Systèmes) 📍 Douala, Cameroun — Disponible en remote / freelance
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=russel-kamgang)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Russel-Kamgang)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=russel-kamgang" alt="russel-kamgang" /></a> </p>
 
