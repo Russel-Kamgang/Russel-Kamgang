@@ -14,21 +14,9 @@
 
 ## 🚀 Projets sélectionnés
 
-### [Nom du projet A](lien-repo)
-Ce que le projet fait, pour qui, et le problème résolu (2 lignes max).
-**Stack :** React · Node.js · PostgreSQL · Docker
-[Démo live](lien) · [Code source](lien)
-
-### [Nom du projet B](lien-repo)
-Idem.
-**Stack :** Flutter · Firebase
-
-### [Nom du projet C](lien-repo)
-Idem — idéalement un projet lié à la sécurité (audit, pentest lab, script d'automatisation).
-**Stack :** Python · Burp Suite · Nmap
-
-> 📌 Tous mes projets sont épinglés sur mon profil GitHub ci-dessous.
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=nom-projet-1&show_owner=true&theme=default)](https://github.com/TON_USERNAME/nom-projet-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=nom-projet-2&show_owner=true&theme=default)](https://github.com/TON_USERNAME/nom-projet-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=nom-projet-3&show_owner=true&theme=default)](https://github.com/TON_USERNAME/nom-projet-3)
 ---
 
 ## 🛠️ Stack
