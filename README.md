@@ -25,7 +25,7 @@
 
 ### 🛠️ Stack technique
 
-<details>
+<details open>
 <summary><b>💻 Frontend & Mobile</b></summary>
 <br>
 <p align="left">
@@ -33,7 +33,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>⚙️ Backend & Bases de données</b></summary>
 <br>
 <p align="left">
@@ -41,7 +41,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>☁️ DevOps, Cloud & Systèmes</b></summary>
 <br>
 <p align="left">
@@ -49,7 +49,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🔴 Sécurité Offensive (Red Team)</b></summary>
 <br>
 <p align="left">
