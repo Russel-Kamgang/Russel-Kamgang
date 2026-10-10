@@ -18,9 +18,7 @@
 
 ### 🚀 Projets sélectionnés
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russel-Kamgang&repo=Blog&theme=tokyonight)](https://github.com/Russel-Kamgang/Blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russel-Kamgang&repo=digisms&theme=tokyonight)](https://github.com/Russel-Kamgang/digisms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russel-Kamgang&repo=manageo&theme=tokyonight)](https://github.com/Russel-Kamgang/manageo)
+[![Blog — Carte du dépôt](https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=blog&theme=tokyonight&hide_border=true)](https://github.com/russel-kamgang/blog)
 
 ---
 
