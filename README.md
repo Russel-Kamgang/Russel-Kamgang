@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Russel-Kamgang)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=russel-kamgang" alt="russel-kamgang" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Russel-Kamgang" alt="russel-kamgang" /></a> </p>
 
 - 📫 How to reach me **russelkammoe9@gmail.com**
 
