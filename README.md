@@ -18,9 +18,9 @@
 
 ### 🚀 Projets sélectionnés
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=russel-kamgang&repo=Blog&theme=tokyonight)](https://github.com/russel-kamgang/Blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=russel-kamgang&repo=digisms&theme=tokyonight)](https://github.com/russel-kamgang/digisms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=russel-kamgang&repo=manageo&theme=tokyonight)](https://github.com/russel-kamgang/manageo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russel-Kamgang&repo=Blog&theme=tokyonight)](https://github.com/Russel-Kamgang/Blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russel-Kamgang&repo=digisms&theme=tokyonight)](https://github.com/Russel-Kamgang/digisms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Russel-Kamgang&repo=manageo&theme=tokyonight)](https://github.com/Russel-Kamgang/manageo)
 
 ---
 
@@ -68,9 +68,9 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=russel-kamgang&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Russel-Kamgang&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=russel-kamgang&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Russel-Kamgang&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
