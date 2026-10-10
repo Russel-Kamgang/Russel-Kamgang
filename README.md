@@ -1,70 +1,58 @@
-# Bonjour, je suis Russel Kamgang 👋
+<h1 align="center">Salut, moi c'est Russel 👋</h1>
+<p align="center">
+  Développeur Full-Stack (Web & Mobile) · Sécurité offensive<br/>
+  Douala, Cameroun — Disponible en remote / freelance
+</p>
 
-### Développeur Full Stack web & mobile · Red Teamer intermédiaire
+<p align="center">
+  <a href="mailto:russelkammoe9@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/russel-kamgang-9483b0347">LinkedIn</a> ·
+  <a href="https://portfolio-russel.vercel.app/">Portfolio</a>
+</p>
 
-Je conçois des applications modernes, performantes et sécurisées, du développement des interfaces à la création d’API et d’architectures backend. Je complète ces compétences par des connaissances en réseaux, systèmes, DevOps et cybersécurité offensive. J'intègre aussi les outils d'IA dans mon flux de travail pour gagner en efficacité et en qualité.
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Russel_Kamgang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russel-kamgang-9483b0347)
-[![E-mail](https://img.shields.io/badge/E--mail-Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russelkammoe9@gmail.com)
+## 🚀 Projets sélectionnés
 
-## À propos de moi
+### [Nom du projet A](lien-repo)
+Ce que le projet fait, pour qui, et le problème résolu (2 lignes max).
+**Stack :** React · Node.js · PostgreSQL · Docker
+[Démo live](lien) · [Code source](lien)
 
-- 💼 Plus de **2 ans d’expérience** et **9 projets réalisés** dans le développement et les technologies IT.
-- 🌐 Je développe des solutions **web, mobile et backend**, de l’interface utilisateur aux API RESTful.
-- 🛡️ Je renforce mes projets grâce à mes connaissances en **réseaux, systèmes Linux, DevOps et sécurité offensive**.
-- 📍 Basé à **Douala, Cameroun**, je suis disponible pour des opportunités **sur site, à distance ou en freelance**.
-- 🤝 Je suis reconnu pour mon **esprit d'équipe**, ma communication et ma collaboration sur des projets collectifs.
-- 🎯 J’accorde une attention particulière à la qualité du code, à la sécurité et à la résolution de problèmes concrets.
+### [Nom du projet B](lien-repo)
+Idem.
+**Stack :** Flutter · Firebase
 
-## Compétences techniques
+### [Nom du projet C](lien-repo)
+Idem — idéalement un projet lié à la sécurité (audit, pentest lab, script d'automatisation).
+**Stack :** Python · Burp Suite · Nmap
 
-### Frontend et mobile
+> 📌 Tous mes projets sont épinglés sur mon profil GitHub ci-dessous.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+---
 
-### Backend
+## 🛠️ Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+**Langages & Frameworks**
+JavaScript/TypeScript, React, Next.js, Angular, Vue.js, Flutter, Node.js, NestJS, Laravel, Spring Boot, Java, C#
 
-<!-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) -->
+**Data & Infra**
+PostgreSQL, MySQL, MongoDB, Docker, Linux, GitLab CI/CD
 
-### Bases de données, DevOps et systèmes
+**Sécurité offensive**
+Nmap, Burp Suite, Wireshark, méthodologie OWASP
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+---
 
-### Cybersécurité
+## 📊 Activité
 
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2A9FD6?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true" height="165"/>
+</p>
 
-## Me contacter
+---
 
-Vous avez un projet, une opportunité ou souhaitez échanger autour du développement et de la cybersécurité ?
+## 📫 Contact
 
-- **E-mail :** [russelkammoe9@gmail.com](mailto:russelkammoe9@gmail.com)
-- **LinkedIn :** [Russel Kamgang](https://www.linkedin.com/in/russel-kamgang-9483b0347)
-- **Portfolio :** [Russel Kamgang](https://portfolio-russel.vercel.app/)
-
-<div align="center">
-
-_Construire des solutions utiles, robustes et sécurisées._
-
-</div>
+[Email](mailto:russelkammoe9@gmail.com) · [LinkedIn](https://www.linkedin.com/in/russel-kamgang-9483b0347) · [Portfolio](https://portfolio-russel.vercel.app/)
