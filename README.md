@@ -18,8 +18,6 @@
 
 ### 🚀 Projets sélectionnés
 
-> *Les dépôts ci-dessous sont épinglés. Assurez-vous d'ajouter une description à chaque repo dans les paramètres GitHub pour qu'ils s'affichent correctement.*
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=russel-kamgang&repo=NOM_DU_REPO_1&theme=tokyonight)](https://github.com/russel-kamgang/NOM_DU_REPO_1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=russel-kamgang&repo=NOM_DU_REPO_2&theme=tokyonight)](https://github.com/russel-kamgang/NOM_DU_REPO_2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=russel-kamgang&repo=NOM_DU_REPO_3&theme=tokyonight)](https://github.com/russel-kamgang/NOM_DU_REPO_3)
@@ -48,7 +46,7 @@
 <summary><b>☁️ DevOps, Cloud & Systèmes</b></summary>
 <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,grafana,nginx,git,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,gitlab,jenkins,linux,grafana,nginx&perline=9" />
 </p>
 </details>
 
