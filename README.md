@@ -2,7 +2,7 @@
 
 💻 Software Developer (Web, Mobile, Backend) 
 ⚙️ DevOps & Cloud (AWS, Docker, CI/CD, Grafana) 
-🔴 Pentester & Red Teamer (Web & Systèmes) 
+🔴 Pentester & Ethical Hacker 
 📍 Douala, Cameroun — Disponible en remote / freelance
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russel-kamagang&label=Profile%20views&color=0e75b6&style=flat" alt="russel-kamagang" /> </p>
 <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw&r=0" with="800px">
