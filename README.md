@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3a&height=220&section=header&text=Russel%20Kamgang&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20DevOps%20%26%20Cloud%20%C2%B7%20S%C3%A9curit%C3%A9%20%C2%B7%20IA&descSize=18&descAlignY=58&animation=fadeIn" alt="Russel Kamgang - Développeur Full-Stack, DevOps & Cloud, Sécurité, IA" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3a&height=220&section=header&text=Russel+Kamgang&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20DevOps%20et%20Cloud%20%C2%B7%20S%C3%A9curit%C3%A9%20%C2%B7%20IA&descSize=18&descAlignY=58&animation=fadeIn" alt="Russel Kamgang - Développeur Full-Stack, DevOps & Cloud, Sécurité Offensive, IA" />
 </p>
 
 <p align="center">
