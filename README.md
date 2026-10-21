@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3a&height=220&section=header&text=Russel+Kamgang&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20DevOps%20et%20Cloud%20%C2%B7%20S%C3%A9curit%C3%A9%20Offensive%20%C2%B7%20IA&descSize=18&descAlignY=58&animation=fadeIn%22%20alt=%22Russel%20Kamgang%20-%20D%C3%A9veloppeur%20Full-Stack,%20DevOps%20&%20Cloud,%20S%C3%A9curit%C3%A9%20Offensive,%20IA" />
 </p>
+
 <p align="center">
+  Je conçois, déploie et sécurise des applications web et mobile,<br>
+  en m'appuyant sur l'IA au quotidien pour livrer plus vite et mieux.<br><br>
   📍 Douala, Cameroun &nbsp;·&nbsp; 🌍 Disponible en remote & freelance
 </p>
 
