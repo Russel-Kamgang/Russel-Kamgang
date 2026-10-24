@@ -33,11 +33,23 @@ Développeur polyvalent, je couvre l'ensemble du cycle de vie d'une application 
 ## 🚀 Projets sélectionnés
 
 <p align="center">
+  <a href="https://github.com/russel-kamgang/devops-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=devops-portfolio&theme=tokyonight&hide_border=true" alt="devops-portfolio" />
+  </a>
   <a href="https://github.com/russel-kamgang/CICD-With-Jenkins">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=CICD-With-Jenkins&theme=tokyonight&hide_border=true" alt="CICD-With-Jenkins" />
   </a>
   <a href="https://github.com/russel-kamgang/Bot-Chat-IA-Bot-Telegram">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=Bot-Chat-IA-Bot-Telegram&theme=tokyonight&hide_border=true" alt="Bot-Chat-IA-Bot-Telegram" />
+  </a>
+  <a href="https://github.com/russel-kamgang/Setup-Active-Directory-With-Ansible">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=Setup-Active-Directory-With-Ansible&theme=tokyonight&hide_border=true" alt="Setup-Active-Directory-With-Ansible" />
+  </a>
+  <a href="https://github.com/russel-kamgang/Lab-VPN-Site-to-Site">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=Lab-VPN-Site-to-Site&theme=tokyonight&hide_border=true" alt="Lab-VPN-Site-to-Site" />
+  </a>
+  <a href="https://github.com/russel-kamgang/ecommerce-app-front-vuejs">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=russel-kamgang&repo=ecommerce-app-front-vuejs&theme=tokyonight&hide_border=true" alt="ecommerce-app-front-vuejs" />
   </a>
 </p>
 
