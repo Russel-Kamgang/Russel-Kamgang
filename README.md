@@ -5,7 +5,7 @@
 <p align="center">
   Je conçois, déploie et sécurise des applications web et mobile,<br>
   en m'appuyant sur l'IA au quotidien pour livrer plus vite et mieux.<br><br>
-  📍 Douala, Cameroun &nbsp;·&nbsp; 🌍 Disponible en remote & freelance
+  📍 Douala, Cameroun &nbsp;·&nbsp; 🌍 Disponible en remote, freelance et sur site
 </p>
 
 <p align="center">
